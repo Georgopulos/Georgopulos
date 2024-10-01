@@ -1,5 +1,5 @@
 $ git config --list
-user.name=John Doe
+user.name=Dionis Georgopulos
 user.email=xdenx27rog@gmail.com
 color.status=auto
 color.branch=auto
